@@ -1,0 +1,15 @@
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\bin\Debug\net6.0\01 - Data Access.deps.json
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\bin\Debug\net6.0\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\bin\Debug\net6.0\01 - Data Access.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.csproj.AssemblyReference.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.AssemblyInfoInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.AssemblyInfo.cs
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.csproj.CoreCompileInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\refint\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\ref\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\bin\Debug\net6.0\01 - Data Access.runtimeconfig.json
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\EFCorePluralizer.cs
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\01 - Data Access\obj\Debug\net6.0\01 - Data Access.genruntimeconfig.cache
