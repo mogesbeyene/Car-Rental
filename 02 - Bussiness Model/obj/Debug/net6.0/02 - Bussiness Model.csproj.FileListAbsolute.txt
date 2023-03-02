@@ -1,0 +1,15 @@
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\bin\Debug\net6.0\02 - Bussiness Model.deps.json
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\bin\Debug\net6.0\02 - Bussiness Model.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\bin\Debug\net6.0\02 - Bussiness Model.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\bin\Debug\net6.0\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\bin\Debug\net6.0\01 - Data Access.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.csproj.AssemblyReference.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.AssemblyInfoInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.AssemblyInfo.cs
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.csproj.CoreCompileInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.csproj.CopyComplete
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\refint\02 - Bussiness Model.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\02 - Bussiness Model.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\02 - Bussiness Model\obj\Debug\net6.0\ref\02 - Bussiness Model.dll

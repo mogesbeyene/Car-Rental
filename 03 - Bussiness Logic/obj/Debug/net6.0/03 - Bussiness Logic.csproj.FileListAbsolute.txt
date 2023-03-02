@@ -1,0 +1,17 @@
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\03 - Bussiness Logic.deps.json
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\03 - Bussiness Logic.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\03 - Bussiness Logic.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\01 - Data Access.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\02 - Bussiness Model.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\02 - Bussiness Model.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\bin\Debug\net6.0\01 - Data Access.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.csproj.AssemblyReference.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.AssemblyInfoInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.AssemblyInfo.cs
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.csproj.CoreCompileInputs.cache
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.csproj.CopyComplete
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\refint\03 - Bussiness Logic.dll
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\03 - Bussiness Logic.pdb
+C:\Users\her4k\OneDrive\Desktop\Development\C#\Car Rental\03 - Bussiness Logic\obj\Debug\net6.0\ref\03 - Bussiness Logic.dll
